@@ -2,7 +2,7 @@
 layout: single 
 title:  "Selamat Datang!"
 classes: wide
-date:   2021-03-29 11:22:54 +0700
+date: 2021-03-29 11:22:54 +0700
 author: Fathur
 # toc: true
 header:
@@ -17,7 +17,7 @@ Setelah mencoba beberapa kali, semoga ini blog yang terakhir dan terupdate yang 
 Kalo dilihat dari *statement* saya diatas, sudah terlihat bahwa ini bukan pertama kali saya membuat
 situs-blog. Yang keberapa? Saya juga lupa 🤷🏻. Kalo kamu fans saya, mungkin pernah tahu [catatan.rohman.pro](catatan.rohman.pro), [kakakung.blogspot.com](kakakung.blogspot.com). 
 
-## Masalah
+## Apa Sih Masalahnya?
 
 Ada beberapa kendala mengapa saya sering ganti blog dan alamat url-nya.
 
@@ -51,5 +51,5 @@ Kemudian masuk ke ide, setelah saya renungkan sesaat, sepertinya cukup satu situ
 Konsistensi ini juga susah, tapi coba saya buat jadwal agar rutin di publish.
 Mungkin setiap *weekend*, ketika sudah tidak bekerja, saya luangkan waktu sedikit untuk menulis. Yaitu selama dua hari merancang dan memperbaiki tulisan, kemudian Senin di *publish* sehingga memiliki kualitas. Menurut saya, tulisan berkualitas itu tulisan yang bukan hanya sekali ketik langsung jadi, tapi harus diriset dan direview.
 
-Sudah demikian celotehan saya hari ini, semoga apa yang saya tulis diatas dapat terwujud, dan selamat menikmati blog baru saya.
+Sudah demikian celotehan saya hari ini, semoga apa yang saya tulis diatas dapat terwujud. Dan selamat menikmati blog baru saya. 😉
 
