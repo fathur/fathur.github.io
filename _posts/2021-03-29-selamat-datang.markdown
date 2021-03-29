@@ -33,23 +33,29 @@ Bahkan saya pernah nge-tweet lo pada 10 Oktober 2020, semoga konsisten tiap seni
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Ini catatan pertama, catatan-catatan selanjutnya akan rutin setiap senin. Insya Allah...<a href="https://t.co/eQ9VWNODyh">https://t.co/eQ9VWNODyh</a></p>&mdash; Fathur Rohman (@__rohman__) <a href="https://twitter.com/__rohman__/status/1336849791020503040?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Ujung-ujungnya contentnya cuma satu dan situsnya mati 🥲.
+Ujung-ujungnya kontennya cuma satu dan situsnya mati 🥲.
 
 ## Mungkin Ini Solusinya
 
 Ok, cukup keluh kesahnya, sekarang kita masuk bagaimana cara mengatasi masalah-masalah tersebut.
 
-Pertama, VPS sepertinya bukan tempat yang tepat untuk *blogging system*, atau *platform* yang berbayar. Jadi saya berencana untuk menyingkirkan opsi yang berbayar, dan masuk ke yang gratisan 🎊. Masuk deh ke [Github Pages](https://pages.github.com/) dengan custom domain. Github Pages menggunakan Jekyll untuk generate content-nya, sempat berfikir pindah ke Hugo yang lagi booming. Tapi Github Pages belum support Hugo, jika dipaksakan ke Hugo nanti ujung-ujungnya VPS lagi. Sempat kepikiran juga masukin aja di notes Facebook, tapi saya rasa bukan pilihan yang tepat.
+Pertama, VPS sepertinya bukan tempat yang tepat untuk *blogging system*, atau *platform* yang berbayar. Jadi saya berencana untuk menyingkirkan opsi yang berbayar, dan masuk ke yang gratisan 🎊. Masuk deh ke [Github Pages](https://pages.github.com/) dengan custom domain. Github Pages menggunakan [Jekyll](https://jekyllrb.com) untuk generate kontennya, sempat berfikir pindah ke Hugo yang lagi booming. Tapi Github Pages belum support Hugo, jika dipaksakan ke [Hugo](https://gohugo.io) nanti ujung-ujungnya VPS lagi. 
+
+Keuntungan di Github Pages, kontennya di masukin di git, jika kamu penasaran perubahan post saya dapat dilihat [disana](https://github.com/fathur/fathur.github.io).
+Dan jika domain ini sudah habis atau mati, konten masih dapat diakses di [fathur.github.io](https://fathur.github.io).
+
+Sempat kepikiran juga masukin aja di Facebook Notes, tapi saya rasa bukan pilihan yang tepat.Sebenarnya masih ada satu lagi di Medium, meskipun popular oleh developer dan non-developer, tetapi disana bukan tempat yang ramah untuk developer menurut saya.
 
 > VPS sepertinya bukan tempat yang tepat untuk *blogging system*, atau *platform* yang berbayar.
 
 Untuk mood management, mungkin saya harus baca beberapa solusi dari beberapa pakar. Bahkan saya menemukan sebuah paper berjudul ["Mood Management Theory"](https://www.researchgate.net/publication/319265020_Mood_Management_Theory) oleh Leonard Reinecke dari Johannes Gutenberg-Universität Mainz yang di publish pada Juli 2016.
 
-
 Kemudian masuk ke ide, setelah saya renungkan sesaat, sepertinya cukup satu situs-blog saja dengan kategori yang bermacam-macam. Kenapa? Karena *maintenance* lebih mudah. Jika banyak situs-blog, *maintenance*-nya akan lebih sulit. Toh, pembacanya cuma saya. Nah, kalo pembacanya sudah banyak dan ada *demand* untuk dipisah, barulah dipisah per situs-blog per topik.
 
-Konsistensi ini juga susah, tapi coba saya buat jadwal agar rutin di publish.
-Mungkin setiap *weekend*, ketika sudah tidak bekerja, saya luangkan waktu sedikit untuk menulis. Yaitu selama dua hari merancang dan memperbaiki tulisan, kemudian Senin di *publish* sehingga memiliki kualitas. Menurut saya, tulisan berkualitas itu tulisan yang bukan hanya sekali ketik langsung jadi, tapi harus diriset dan direview.
+Konsistensi ini juga susah, tapi  saya mencoba membuat jadwal agar rutin di *publish*.
+Setiap *weekend*, ketika sudah tidak bekerja, saya luangkan waktu sedikit untuk menulis. Yaitu selama dua hari merancang dan memperbaiki tulisan, kemudian Senin di *publish* sehingga memiliki kualitas. Saya yakin bahwa tulisan berkualitas itu tulisan yang bukan hanya sekali ketik langsung jadi, tapi harus melalui proses riset dan review.
 
-Sudah demikian celotehan saya hari ini, semoga apa yang saya tulis diatas dapat terwujud. Dan selamat menikmati blog baru saya. 😉
+Sudah demikian celotehan saya hari ini, semoga apa yang saya tulis diatas dapat terwujud. Dan... selamat menikmati blog baru saya. 😉
+
+Fathur Rohman
 
